@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/social-links-profile-main/design/destkop-design.jpg)
+![](/Social-links-main-profile/design/destkop-design.jpg)
 
 
 ### Links
