@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(0, 0%, 8%);
+    height: 100vh; 
+    font-family: "Inter", sans-serif;
+    font: 14px;
+    overflow: hidden;  
+}  
+.container {
+    background-color: hsl(0, 0%, 12%);
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    width: 350px;
+    height: 550px;
+    border-radius: 15px;
+    padding: 0 10px;
+}
+.icon > img{
+    padding-top: 30px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 50%;
+    height: 150px;
+}
+.content > h1 {
+    font-weight: 700;
+    margin-top: 10px;
+}
+.content p:first-of-type {
+    font-weight: 700;
+    color: hsl(75, 94%, 57%);
+    margin-top: 10px;
+}
+.content p:last-child{
+    margin-bottom: 20px;
+    width: auto;
+    font-size: 12px;
+}
+.content p {
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.media-links button {
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+    align-items: center;
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);  
+    height: 35px;
+    justify-content: space-around; 
+    border: 0;
+    border-radius: 7px;
+    margin: auto;
+}
+.media-links a {
+    text-decoration: none;
+}
+.media-links .git {
+    margin-bottom: 10px;
+}
+.media-links .mentor {
+    margin-bottom: 10px;
+}
+.media-links .linkedin {
+    margin-bottom: 10px;
+}
+.media-links .twitter {
+    margin-bottom: 10px;
+}
+.media-links .instagram{
+    margin-bottom: 10px;
+}
+.media-links button:active {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
