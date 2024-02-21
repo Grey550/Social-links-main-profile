@@ -22,11 +22,12 @@ Users should be able to:
 ### Screenshot
 
 ![](../Social-links-main-profile/design/destkop-design.jpg)
+![](../social-links-profile-main/design/destkop-design.jpg)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://grey550.github.io/social-links-main-profile/)
 
 ### Built with
 
