@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://grey550.github.io/social-links-main-profile/)
+- Live Site URL: https://grey550.github.io/social-links-main-profile/
 
 ### Built with
 
